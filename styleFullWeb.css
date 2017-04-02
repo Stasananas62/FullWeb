@@ -1,0 +1,98 @@
+
+ body{
+   background-image: url("http://i19.beon.ru/77/80/1598077/33/50944933/0_12390_ee79672d_XL.gif");
+ }
+
+ .iconeT{
+color:#DAA520;
+margin-top: 50px;
+text-align: center;
+font-family:Lobster, cursive; Font-size:30px;;
+}
+ .row1 div {
+  height: 100px;
+  width:1170px;
+  background: #333;
+  }
+  .alert {
+  padding: 15px;
+  border: 20px solid #0000FF;
+  border-radius: 40px;
+  color: #000000;
+  background-color: #1E90FF;
+  width:70px;
+  height:50px;
+  float:left;
+  text-align:left;
+  }
+  .alert2 {
+  padding: 15px;
+  border: 15px solid #282828 ;
+  border-radius: 40px;
+  color: #000000;
+  background-color: #585858 ;
+  float:right;
+  }
+  .alert5 {
+      padding: 15px;
+      border: 15px solid #FFD700;
+      border-radius: 40px;
+      color: #000000;
+      background-color: 	#808080 ;
+      float:left;
+      border-radius: 0 10px;
+       background-image: url("http://rylik.ru/uploads/posts/2014-08/1409245434_7xfnwkr8auqo691.jpg");
+       height:80px;
+       text-align:center;
+       }
+ #button1 {     //кнопка взята с сайта)
+   display: inline-block;
+   width: 100px;
+   height: 50px;
+   line-height: 50px;
+   font-size: 20px;
+   text-align: center;
+   text-decoration: none;
+   text-shadow: 0 1px rgba(255,255,255,.2), 0 -1px rgba(0,0,0,.8);
+   outline: none;
+   border: none;
+   border-radius: 100px;
+   background: rgb(28,107,114) radial-gradient(150% 100% at 50% 5px, rgba(255,255,255,.2), rgba(0,0,0,0));
+   box-shadow: inset rgba(0,0,0,.6) 0 -2px 5px, inset rgba(252,255,255,.7) 0 2px 5px, rgba(0,0,0,.8) 0 2px 5px -1px;
+   color: rgb(0,79,86);
+   user-select: none;
+   float:right;
+ }
+ #button1:hover {
+   color: rgb(0,59,66);
+   cursor: pointer;
+ }
+ #button1:active {
+   padding-bottom: 1px;
+   box-shadow:
+    inset rgba(0,0,0,1) 0 1px 3px,
+    inset rgba(0,0,0,.6) 0 -2px 5px,
+    inset rgba(252,255,255,.7) 0 2px 5px,
+    0 1px rgba(255,255,255,.08);
+   color: rgb(128,207,214);
+ }
+
+/*
+#button2{
+border:  solid #ADD8E6;
+ border-radius: 10px;
+ background-color: #228B22;
+}
+
+#button3{
+ background-color: #DAA520;
+ border-radius: 10px;
+}
+#button4{
+ background-color: #DAA520;
+ border-radius: 10px;
+}*/
+  #button5 {
+  background-color:  #DAA520;
+   border-radius: 10px;
+  }
